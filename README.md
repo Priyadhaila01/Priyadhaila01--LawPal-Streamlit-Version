@@ -2,7 +2,7 @@
 
 **LawPal** is a Generative AI-powered legal assistant web app built using **Python** and **Streamlit**. It provides instant, simplified answers to legal questions, focusing on **Indian law** to help bridge the legal knowledge gap among citizens. LawPal makes legal awareness accessible, fast, and free.
 
-![LawPal Banner](images/banner.png)
+![image](https://github.com/user-attachments/assets/dcd20bde-6438-4a96-8046-c728932bf68c)
 
 ---
 
@@ -36,8 +36,7 @@ Users can type any legal question—like property rights, tenant disputes, or cy
 ### 📱 Mobile-Responsive Design
 
 The app adjusts seamlessly across mobile, tablet, and desktop devices.
-
-![image](https://github.com/user-attachments/assets/dcd20bde-6438-4a96-8046-c728932bf68c)
+![image](https://github.com/user-attachments/assets/25e13567-d75b-4758-a991-abee710f6fe4)
 
 ---
 
