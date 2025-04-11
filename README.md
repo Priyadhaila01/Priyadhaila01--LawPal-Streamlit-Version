@@ -53,8 +53,7 @@ The app adjusts seamlessly across mobile, tablet, and desktop devices.
 
 ## 🚀 Installation & Setup
 # Clone the repository
-git clone https://github.com/yourusername/lawpal-streamlit.git
-cd lawpal-streamlit
+git clone https://github.com/Priyadhaila01/Priyadhaila01--LawPal-Streamlit-Version
 
 # Create virtual environment
 python -m venv lawpal-env
